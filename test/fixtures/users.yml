@@ -1,0 +1,25 @@
+freddy:
+  first_name: "Freddy"
+  last_name: "Liu"
+  profile_name: "fred"
+  email: "fred@fred.com"
+jack:
+  first_name: "Jack"
+  last_name: "Jia"
+  profile_name: "jack"
+  email: "jack@jack.com"
+henry:
+  first_name: "Henry"
+  last_name: "Fausta"
+  profile_name: "henry`"
+  email: "henry@henry.com"
+daisy:
+  first_name: "Daisy"
+  last_name: "Xu"
+  profile_name: "daisy"
+  email: "daisy@daisy.com"
+karine:
+  first_name: "Karine"
+  last_name: "Trepanier"
+  profile_name: "karine"
+  email: "karine@karine.com"
